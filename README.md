@@ -1,6 +1,6 @@
 # auto-mpg-prediction
 
-## Web App Link: [https://prediction-mpg-app.herokuapp.com/]("https://prediction-mpg-app.herokuapp.com/")
+## Web App Link: (https://prediction-mpg-app.herokuapp.com/)["https://prediction-mpg-app.herokuapp.com/"]
 
 ## A normal Machine Learning web app that predicts the vehicle miles per gallon efficiency (MPG) given 7 input features. A Random Forest Regression model is used to predict the MPG value.
 * Cylinders
